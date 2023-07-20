@@ -34,4 +34,11 @@ The Events are priority is color based as in the past present and future.
 ![Alt text](Title.gif)
 
 
-## Project Deployment
+## Project Deployment link
+
+https://tocopro.github.io/Calendar_Application/
+
+
+## Project Repository
+
+https://github.com/Tocopro/Calendar_Application
